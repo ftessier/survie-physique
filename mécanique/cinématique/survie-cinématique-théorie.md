@@ -2,11 +2,11 @@
 
 ## Point de départ : trois fondamentaux
 
-Toutes les équations du MRUA découlent de trois idées simples.
+Toutes les équations du mouvement rectiligne uniformément accéléré (MRUA), c'est-à-dire lorsque **l'accélération est constante** (peut-être nulle) découlent de trois idées simples.
 
 ### L'accélération uniforme
 
-L'accélération est le taux de changement de la vitesse :
+L'accélération (constante) est le taux de changement de la vitesse :
 
 $$a = \frac{v_f - v_i}{\Delta t}$$
 
