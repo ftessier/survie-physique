@@ -4,7 +4,7 @@
 
 ## Problème 1 — Le décollage de Gérald
 
-Gérald le pigeon part du repos sur une piste d'aéroport (il se prend pour un Airbus) et accélère uniformément à trois mètres par seconde carrée. Quelle distance a-t-il parcourue après trente secondes? On ne lui dit pas qu'il peut simplement voler.
+Gérald le pigeon part du repos sur une piste d'aéroport (il se prend pour un Airbus) et accélère uniformément à trois mètres par seconde carrée. Quelle distance a-t-il parcourue après trente secondes? On ne lui dit pas qu'il peut décoller n'importe où, sans aéroport.
 
 ```
 Données :
