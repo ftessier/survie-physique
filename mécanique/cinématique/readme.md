@@ -12,9 +12,9 @@ L'accélération, c'est un cran plus abstrait — c'est le *changement* de la vi
 
 Quand on fait de la cinématique, on tient certaines choses pour acquises. Le temps passe de la même façon pour tout le monde. L'espace est le même partout. Une seconde ici, c'est une seconde là-bas. Un mètre ici, c'est un mètre là-bas. Ça semble tellement évident que ça ne vaut même pas la peine d'en parler.
 
-Sauf que ça dépend de ta technologie. Aujourd'hui, ton cellulaire se synchronise à la nanoseconde avec des serveurs partout dans le monde via NTP (*network time protocol*). Le temps commun te semble naturel — tout le monde a la même heure affichée au même instant. Ton odomètre t'affiche ta vitesse instantanée en temps réel, comme si c'était banal.
+Sauf que l'évidence, ça dépend en partie de notre expérience de tous les jours avec la technologie actuelle. Aujourd'hui, ton cellulaire se synchronise à la nanoseconde avec des serveurs partout dans le monde via NTP (*network time protocol*). Le temps commun te semble naturel — tout le monde a la même heure affichée au même instant. Ton odomètre t'affiche ta vitesse instantanée en temps réel, comme si c'était banal.
 
-Mais quand Newton a formalisé tout ça au 17e siècle, personne n'avait d'outil capable de mesurer une vitesse *instantanée*. Le concept existait en mathématiques, mais pas dans les mains. L'idée d'un temps absolu et d'un espace absolu, c'était un *choix* philosophique — hérité de Platon, consolidé par Newton — pas une évidence. Ça avait l'air raisonnable, et ça a tenu pendant deux cents ans. Jusqu'à Einstein, mais ça c'est une autre histoire.
+Mais quand Newton a formalisé tout ça au 17e siècle, personne n'avait d'outil capable de mesurer une vitesse *instantanée*. Le concept existait en mathématiques, mais pas dans les mains. L'idée d'un temps absolu et d'un espace absolu, c'était un *choix* philosophique — hérité de Platon, malheureusement diront certains, et consolidé par Newton — pas une évidence. Ça avait l'air raisonnable, et ça a tenu pendant deux cents ans. Jusqu'à Einstein, mais ça c'est une autre histoire.
 
 Pour l'instant, Newton a raison, ton cellulaire est synchronisé, et on a des problèmes à résoudre.
 
