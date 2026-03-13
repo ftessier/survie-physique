@@ -49,3 +49,4 @@ En attendant, on joue le jeu du $\Delta d$ dans les problèmes — mais maintena
 - [Exercices 3 — Équation de position en fonction du temps](survie-cinématique-exercices-03.md)
 - [Exercices 4 — Équation de position avec la vitesse finale](survie-cinématique-exercices-04.md)
 - [Exercices 5 — Relation vitesse-déplacement (sans le temps)](survie-cinématique-exercices-05.md)
+- [Exercices 6 — Problèmes avancés](survie-cinématique-exercices-06.md)
