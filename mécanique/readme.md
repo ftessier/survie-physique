@@ -1,8 +1,10 @@
+# Mécanique
+
 ## Contenu
 
 - [Cinématique](cinématique/)
 
-# C'est quoi la mécanique?
+## C'est quoi la mécanique?
 
 Précision importante : ici, on ne parle pas de la mécanicienne sous ta voiture qui te charge 800$ pour un bruit que tu n'entends plus depuis que tu as monté le volume de la radio. On parle de la mécanique au sens de la physique — l'étude du mouvement et des forces qui le causent. C'est la plus vieille branche de la physique, et honnêtement la plus intuitive, parce que tu vis dedans en permanence.
 
