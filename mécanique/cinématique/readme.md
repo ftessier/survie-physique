@@ -16,7 +16,7 @@ Sauf que l'évidence, ça dépend en partie de notre expérience de tous les jou
 
 Mais quand Newton a formalisé tout ça au 17e siècle, personne n'avait d'outil capable de mesurer une vitesse *instantanée*. Le concept existait en mathématiques, mais pas dans les mains. La synchronisation précises des horloges commençait à peine à devenir essentielle pour la navigation. En fait, l'idée d'un temps absolu et d'un espace absolu, c'était un *choix* philosophique — hérité de Platon, malheureusement diront certains, et consolidé par Newton — pas une évidence. Ça avait l'air raisonnable, et ça a tenu pendant deux cents ans. Jusqu'à Einstein; mais ça, c'est une autre histoire.
 
-Pour l'instant, le choix de Newton semble coller avec notre réalité de tous les jours, ton cellulaire est synchronisé, et on a des problèmes à résoudre.
+Pour l'instant, le choix de Newton semble coller avec notre réalité de tous les jours. Ton cellulaire est synchronisé, un mètre a la même longueur partout, et on a des problèmes à résoudre.
 
 ## Une note sur la notation
 
