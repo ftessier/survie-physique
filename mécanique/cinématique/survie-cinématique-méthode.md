@@ -26,7 +26,7 @@ En lisant un problème, cherche ces cinq ingrédients. Tu en auras toujours au m
 
 ### 1. Mouvement rectiligne uniforme
 
-$$\Delta d = v \, \Delta t$$
+$$\Delta d = v \cdot \Delta t$$
 
 Utile quand il n'y a **pas d'accélération**. Trois variables, trois variantes possibles.
 
@@ -34,7 +34,7 @@ Utile quand il n'y a **pas d'accélération**. Trois variables, trois variantes 
 
 ### 2. Moyenne des vitesses
 
-$$\Delta d = \frac{v_i + v_f}{2} \, \Delta t$$
+$$\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t$$
 
 La variable **absente** : $a$. Utile quand on connaît les deux vitesses et le temps (ou qu'on en cherche une des trois).
 
@@ -42,7 +42,7 @@ La variable **absente** : $a$. Utile quand on connaît les deux vitesses et le t
 
 ### 3. Position avec vitesse initiale
 
-$$\Delta d = v_i \, \Delta t + \frac{1}{2} \, a \, (\Delta t)^2$$
+$$\Delta d = v_i \cdot \Delta t + \frac{1}{2} \cdot a \cdot (\Delta t)^2$$
 
 La variable **absente** : $v_f$. C'est l'équation « je connais le début ».
 
@@ -50,7 +50,7 @@ La variable **absente** : $v_f$. C'est l'équation « je connais le début ».
 
 ### 4. Position avec vitesse finale
 
-$$\Delta d = v_f \, \Delta t - \frac{1}{2} \, a \, (\Delta t)^2$$
+$$\Delta d = v_f \cdot \Delta t - \frac{1}{2} \cdot a \cdot (\Delta t)^2$$
 
 La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Remarque le signe $-$ devant le terme en $a$.
 
@@ -58,7 +58,7 @@ La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Rema
 
 ### 5. Relation vitesse-déplacement
 
-$$v_f^2 = v_i^2 + 2 \, a \, \Delta d$$
+$$v_f^2 = v_i^2 + 2 \cdot a \cdot \Delta d$$
 
 La variable **absente** : $\Delta t$. Très puissante quand le temps n'apparaît nulle part dans l'énoncé.
 
