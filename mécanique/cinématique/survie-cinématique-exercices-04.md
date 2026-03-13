@@ -25,7 +25,7 @@ Solution :
 
 ## Problème 2 — Le chat sur le comptoir
 
-Un chat glisse sur un comptoir de cuisine fraîchement ciré et s'immobilise après avoir parcouru un mètre virgule huit en trois secondes, en décélérant uniformément. À quelle vitesse le chat a-t-il atterri sur le comptoir? Sa dignité, elle, n'a pas survécu au trajet.
+Un chat saute et glisse sur un comptoir de cuisine fraîchement ciré et s'immobilise après avoir parcouru un mètre virgule huit en trois secondes, en décélérant uniformément. À quelle vitesse le chat a-t-il atterri sur le comptoir? Sa dignité, elle, n'a pas survécu au trajet.
 
 ```
 Données :
