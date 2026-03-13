@@ -29,26 +29,6 @@ Le chariot pèse trente-cinq kilogrammes, Gérald pèse quatre cents grammes, le
 **(e)** Gérald passe-t-il la grille à temps? Si oui, combien de secondes lui restait-il? Si non, à quelle distance de la sortie était-il quand la grille s'est fermée?
 
 ```
-(a) Vitesse fin zone A
-
-Données :
-
-Équation :
-
-Solution :
-
-
-
-
-
-
-(b) Vitesse et distance zone B
-
-Données :
-
-Équation(s) :
-
-Solution :
 
 
 
@@ -57,45 +37,8 @@ Solution :
 
 
 
-(c) Équation de position zone C
-
-Données :
-
-Équation :
-
-Mise en forme :
 
 
-
-
-
-
-(d) Résolution de l'équation quadratique
-
-Identification de a, b, c :
-
-
-
-Discriminant :
-
-
-
-Racines :
-
-
-
-Choix de la racine physique :
-
-
-
-
-(e) Verdict
-
-Temps nécessaire :
-
-Temps disponible :
-
-Conclusion :
 
 
 
