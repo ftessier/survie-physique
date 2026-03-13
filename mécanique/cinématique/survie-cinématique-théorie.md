@@ -26,8 +26,6 @@ Par définition, le déplacement est la vitesse moyenne multipliée par le temps
 
 $$\Delta d = v_{\text{moy}} \cdot \Delta t$$
 
----
-
 ## Équation 1 — Mouvement rectiligne uniforme
 
 Quand il n'y a pas d'accélération ($a = 0$), la vitesse ne change pas: $v_i = v_f = v$. La vitesse moyenne est simplement $v$, et on obtient directement:
@@ -35,8 +33,6 @@ Quand il n'y a pas d'accélération ($a = 0$), la vitesse ne change pas: $v_i = 
 $$\boxed{\Delta d = v \cdot \Delta t} \quad\quad{[1]}$$
 
 C'est un cas particulier de tout ce qui suit.
-
----
 
 ## Équation 2 — Moyenne des vitesses
 
@@ -47,8 +43,6 @@ $$\boxed{\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t} \quad\quad\quad{[2]}$$
 Variable absente: $a$.
 
 C'est l'équation mère. Les trois prochaines en découlent par substitution.
-
----
 
 ## Équation 3 — Position avec vitesse initiale
 
@@ -69,8 +63,6 @@ On distribue:
 $$\boxed{\Delta d = v_i \cdot \Delta t + \frac{1}{2} \cdot a \cdot (\Delta t)^2} \quad\quad{[3]}$$
 
 Variable absente: $v_f$.
-
----
 
 ## Équation 4 — Position avec vitesse finale
 
@@ -94,8 +86,6 @@ Variable absente: $v_i$.
 
 On remarque que c'est exactement [3] avec $v_f$ à la place de $v_i$ et un signe $-$ à la place du signe $+$. Ce n'est pas une coïncidence: les deux équations sont des images miroir, l'une regardant vers l'avant, l'autre vers l'arrière.
 
----
-
 ## Équation 5 — Relation vitesse-déplacement
 
 On veut éliminer le temps $\Delta t$. On part de [0] et on isole $\Delta t$:
@@ -115,8 +105,6 @@ On multiplie les deux côtés par $2a$ et on réarrange:
 $$\boxed{v_f^2 = v_i^2 + 2 \cdot a \cdot \Delta d} \quad\quad{[5]}$$
 
 Variable absente: $\Delta t$.
-
----
 
 ## Vue d'ensemble
 
