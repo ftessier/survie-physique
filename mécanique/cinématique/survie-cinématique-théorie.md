@@ -12,7 +12,7 @@ $$a = \frac{v_f - v_i}{\Delta t}$$
 
 On peut isoler $v_f$ pour obtenir une relation qu'on utilisera souvent :
 
-$$v_f = v_i + a \, \Delta t \quad\quad{[0]}$$
+$$v_f = v_i + a \cdot \Delta t \quad\quad{[0]}$$
 
 ### La vitesse moyenne
 
@@ -24,7 +24,7 @@ $$v_{\text{moy}} = \frac{v_i + v_f}{2}$$
 
 Par définition, le déplacement est la vitesse moyenne multipliée par le temps :
 
-$$\Delta d = v_{\text{moy}} \, \Delta t$$
+$$\Delta d = v_{\text{moy}} \cdot \Delta t$$
 
 ---
 
@@ -32,7 +32,7 @@ $$\Delta d = v_{\text{moy}} \, \Delta t$$
 
 Quand il n'y a pas d'accélération ($a = 0$), la vitesse ne change pas : $v_i = v_f = v$. La vitesse moyenne est simplement $v$, et on obtient directement :
 
-$$\boxed{\Delta d = v \, \Delta t} \quad\quad{[1]}$$
+$$\boxed{\Delta d = v \cdot \Delta t} \quad\quad{[1]}$$
 
 C'est un cas particulier de tout ce qui suit.
 
@@ -42,7 +42,7 @@ C'est un cas particulier de tout ce qui suit.
 
 On combine les deux définitions du point de départ sans aucune manipulation. Le déplacement est la vitesse moyenne multipliée par le temps, et la vitesse moyenne est la demi-somme des vitesses :
 
-$$\boxed{\Delta d = \frac{v_i + v_f}{2} \, \Delta t} \quad\quad\quad{[2]}$$
+$$\boxed{\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t} \quad\quad\quad{[2]}$$
 
 Variable absente : $a$.
 
@@ -54,19 +54,19 @@ C'est l'équation mère. Les trois prochaines en découlent par substitution.
 
 On veut éliminer $v_f$ de [2]. On utilise [0] :
 
-$$v_f = v_i + a \, \Delta t$$
+$$v_f = v_i + a \cdot \Delta t$$
 
 On substitue dans [2] :
 
-$$\Delta d = \frac{v_i + (v_i + a \, \Delta t)}{2} \, \Delta t$$
+$$\Delta d = \frac{v_i + (v_i + a \cdot \Delta t)}{2} \cdot \Delta t$$
 
 On simplifie le numérateur :
 
-$$\Delta d = \frac{2 \, v_i + a \, \Delta t}{2} \, \Delta t$$
+$$\Delta d = \frac{2 \cdot v_i + a \cdot \Delta t}{2} \cdot \Delta t$$
 
 On distribue :
 
-$$\boxed{\Delta d = v_i \, \Delta t + \frac{1}{2} \, a \, (\Delta t)^2} \quad\quad{[3]}$$
+$$\boxed{\Delta d = v_i \cdot \Delta t + \frac{1}{2} \cdot a \cdot (\Delta t)^2} \quad\quad{[3]}$$
 
 Variable absente : $v_f$.
 
@@ -76,19 +76,19 @@ Variable absente : $v_f$.
 
 On veut maintenant éliminer $v_i$ au lieu de $v_f$. On réarrange [0] :
 
-$$v_i = v_f - a \, \Delta t$$
+$$v_i = v_f - a \cdot \Delta t$$
 
 On substitue dans [2] :
 
-$$\Delta d = \frac{(v_f - a \, \Delta t) + v_f}{2} \, \Delta t$$
+$$\Delta d = \frac{(v_f - a \cdot \Delta t) + v_f}{2} \cdot \Delta t$$
 
 On simplifie le numérateur :
 
-$$\Delta d = \frac{2 \, v_f - a \, \Delta t}{2} \, \Delta t$$
+$$\Delta d = \frac{2 \cdot v_f - a \cdot \Delta t}{2} \cdot \Delta t$$
 
 On distribue :
 
-$$\boxed{\Delta d = v_f \, \Delta t - \frac{1}{2} \, a \, (\Delta t)^2} \quad\quad{[4]}$$
+$$\boxed{\Delta d = v_f \cdot \Delta t - \frac{1}{2} \cdot a \cdot (\Delta t)^2} \quad\quad{[4]}$$
 
 Variable absente : $v_i$.
 
@@ -112,7 +112,7 @@ $$\Delta d = \frac{v_f^2 - v_i^2}{2a}$$
 
 On multiplie les deux côtés par $2a$ et on réarrange :
 
-$$\boxed{v_f^2 = v_i^2 + 2 \, a \, \Delta d} \quad\quad{[5]}$$
+$$\boxed{v_f^2 = v_i^2 + 2 \cdot a \cdot \Delta d} \quad\quad{[5]}$$
 
 Variable absente : $\Delta t$.
 
