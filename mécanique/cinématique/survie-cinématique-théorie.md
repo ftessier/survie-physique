@@ -36,7 +36,7 @@ C'est un cas particulier de tout ce qui suit.
 
 ## Équation 2 — Moyenne des vitesses
 
-On combine les deux définitions du point de départ — la vitesse moyenne et le déplacement — sans aucune manipulation. Le déplacement est la vitesse moyenne multipliée par le temps, et la vitesse moyenne est la demi-somme des vitesses:
+On combine deux définitions du point de départ sans aucune manipulation. Le déplacement est la vitesse moyenne multipliée par le temps, et la vitesse moyenne est la demi-somme des vitesses:
 
 $$\boxed{\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t} \quad\quad\quad{[2]}$$
 
