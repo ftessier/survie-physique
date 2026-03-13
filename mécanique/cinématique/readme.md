@@ -1,6 +1,6 @@
 # Cinématique
 
-Le mot vient du grec **κίνημα** (ki-nè-ma, comme cinéma!) — le mouvement. La cinématique, c'est littéralement la science du mouvement. Pas *pourquoi* les choses bougent (ça, c'est la dynamique, et ça vient après), juste *comment* : où, quand, à quelle vitesse.
+Le mot vient du grec **κίνημα** (ki-nè-ma) — le mouvement (la même racine que le mot cinéma!). La cinématique, c'est littéralement la science du mouvement. Pas *pourquoi* les choses bougent (ça, c'est la dynamique, et ça vient après), juste *comment* : où, quand, à quelle vitesse.
 
 ## Pourquoi on commence par là
 
