@@ -18,4 +18,4 @@ La mécanique dite _classique_ se divise en quelques grands morceaux, qu'on abor
 
 **L'énergie et le travail** reformulent les mêmes idées sous un angle différent, qui permet souvent un analyse plus avancée (et sur laquelle repose la mécanique dite _quantique_). Au lieu de suivre les forces à chaque instant, on fait la comptabilité : combien d'énergie est entrée, combien est sortie, où est passé le reste?
 
-On commence par la cinématique — parce qu'avant de comprendre *pourquoi* les choses bougent, il faut d'abord savoir décrire *comment* elles bougent.
+On commence par la [cinématique](cinématique/) — parce qu'avant de comprendre *pourquoi* les choses bougent, il faut d'abord savoir décrire *comment* elles bougent.
