@@ -19,7 +19,9 @@ En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est don
 - « Vitesse constante » $\Rightarrow$ $a = 0$ (MRU, pas MRUA)
 - « Freine uniformément » $\Rightarrow$ l'accélération est de signe contraire à la vitesse
 - Attention aux unités: km/h $\rightarrow$ m/s, on divise par $3{,}6$
-- Pour un mouvement selon deux direction, disons horizontale et verticale, résoudre le problème séparément selon chaque direction.
+- Pour un mouvement selon deux direction, disons horizontale et verticale, résoudre le problème séparément selon chaque direction
+- Travaille algébriquement (avec les varialbe en lettres, sans remplacer par des nombres)
+- Utilise ta calculatrice une seule fois à la toute fin, pour trouver la réponse numérique
 
 ---
 
