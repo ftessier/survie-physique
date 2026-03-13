@@ -24,7 +24,7 @@ Le chariot pèse trente-cinq kilogrammes, Gérald pèse quatre cents grammes, le
 
 **(c)** En utilisant la vitesse trouvée en (b) comme vitesse initiale et l'accélération de la zone C, trouve l'équation qui donne la position de Gérald en fonction du temps dans la zone C.
 
-**(d)** Résous cette équation pour trouver le temps nécessaire pour parcourir les cent mètres de la zone C. (Indice : c'est une équation quadratique en $\Delta t$.)
+**(d)** Résous cette équation pour trouver le temps nécessaire pour parcourir les cent mètres de la zone C. (Indice: c'est une équation quadratique en $\Delta t$.)
 
 **(e)** Gérald passe-t-il la grille à temps? Si oui, combien de secondes lui restait-il? Si non, à quelle distance de la sortie était-il quand la grille s'est fermée?
 
