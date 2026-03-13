@@ -53,7 +53,7 @@ La variable **absente** : $v_f$. C'est l'équation « je connais le début ».
 
 $$\Delta d = v_f \cdot \Delta t - \frac{1}{2} \cdot a \cdot (\Delta t)^2$$
 
-La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Remarque le signe $-$ devant le terme en $a$.
+La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Remarque le signe `-` devant le terme en $a$.
 
 ---
 
