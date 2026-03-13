@@ -8,9 +8,9 @@ Toutes les équations du mouvement rectiligne uniformément accéléré (MRUA), 
 
 L'accélération (constante) est le taux de changement de la vitesse:
 
-$$a = \frac{v_f - v_i}{t_f - t_i} = \frac{v_f - v_i}{\Delta t}$$
+$$a = \frac{v_f - v_i}{\Delta t}$$
 
-où $v_f$ représente la vitesse finale au temps final $t_f$, et $v_i$ représente la vitesse initiale au temps initial $t_i$. On peut isoler $v_f$ pour obtenir une relation qu'on utilisera souvent:
+où $v_f$ représente la vitesse finale au temps final $t_f$, $v_i$ représente la vitesse initiale au temps initial $t_i$, et $\Delta t = t_f - t_i$. On peut isoler $v_f$ pour obtenir une relation qu'on utilisera souvent:
 
 $$v_f = v_i + a \cdot \Delta t \quad\quad{[0]}$$
 
