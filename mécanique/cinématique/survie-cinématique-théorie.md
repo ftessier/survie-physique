@@ -84,7 +84,7 @@ $$\boxed{\Delta d = v_f \cdot \Delta t - \frac{1}{2} \cdot a \cdot (\Delta t)^2}
 
 Variable absente: $v_i$.
 
-On remarque que c'est exactement [3] avec $v_f$ à la place de $v_i$ et un signe $-$ à la place du signe $+$. Ce n'est pas une coïncidence: les deux équations sont des images miroir, l'une regardant vers l'avant, l'autre vers l'arrière.
+On remarque que c'est exactement [3] avec $v_f$ à la place de $v_i$ et un signe $-$ à la place du signe $+$. Ce n'est pas une coïncidence: les deux équations sont des images miroir, l'une regardant vers l'avant, l'autre vers l'arrière!
 
 ## Équation 5 — Relation vitesse-déplacement
 
