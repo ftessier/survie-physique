@@ -16,7 +16,7 @@ $$v_f = v_i + a \cdot \Delta t \quad\quad{[0]}$$
 
 ### La vitesse moyenne
 
-Quand l'accélération est constante, la vitesse change de manière linéaire (elle augmente ou diminue au même rythme à chaque seconde). La vitesse moyenne est donc exactement à mi-chemin entre la vitesse initiale et la vitesse finale:
+Quand l'accélération est constante, la vitesse change de manière _linéaire_ (elle augmente ou diminue au même rythme à chaque moment). La vitesse moyenne est par conséquent exactement à mi-chemin entre la vitesse initiale et la vitesse finale:
 
 $$v_{\text{moy}} = \frac{v_i + v_f}{2}$$
 
