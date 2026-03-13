@@ -2,8 +2,6 @@
 
 > *Tu as survécu aux dix problèmes mixtes. Tu as maîtrisé les cinq équations. Tu as retrouvé Gérald à travers l'espace et le temps. Il reste un dernier défi.*
 
----
-
 ## La grande évasion de Gérald
 
 À force de traîner à l'aéroport, Gérald le pigeon a été capturé par les agents de la faune, qui l'ont pris pour un oiseau exotique (il portait des lunettes d'aviateur). Il se retrouve au zoo de Granby. Il décide de s'échapper sur un chariot de service et doit traverser trois zones du zoo en ligne droite pour atteindre la sortie.
@@ -43,7 +41,5 @@ Solution, par étapes:
 
 
 ```
-
----
 
 > *Si tu as réussi ce problème, tu as utilisé les cinq équations, résolu une quadratique, éliminé des données inutiles, et sauvé un pigeon. Tu es prêt pour la dynamique.*
