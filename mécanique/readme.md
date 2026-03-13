@@ -10,9 +10,7 @@ Précision importante : ici, on ne parle pas de la mécanicienne sous ta voiture
 
 Le mot vient du grec **μηχανή** (mè-ka-nè) — la machine, l'engin. À l'origine, c'était l'art de construire des machines intelligentes : des leviers, des poulies, des catapultes. Avec le temps, le mot a évolué pour désigner la science qui explique *pourquoi* ces machines fonctionnent. Et pourquoi ton café se renverse quand l'autobus freine.
 
-## Ce que couvre la mécanique en physique
-
-La mécanique classique se divise en quelques grands morceaux, qu'on aborde dans un ordre logique :
+La mécanique dite _classique_ se divise en quelques grands morceaux, qu'on aborde dans un ordre logique :
 
 **La cinématique** décrit le mouvement — position, vitesse, accélération — sans se demander *pourquoi* les choses bougent. C'est purement descriptif, comme un commentateur sportif qui dit « la balle va à 140 km/h » sans se demander comment le lanceur a fait.
 
