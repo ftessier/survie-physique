@@ -90,7 +90,7 @@ Solution :
 
 ## Problème 5 — L'orgueil mal placé
 
-Deux amies en voiture roulent côte à côte au même instant. La première, très confiante, maintient une vitesse constante de vingt-cinq mètres par seconde. La seconde, vexée, roule à vingt mètres par seconde mais enfonce l'accélérateur avec une accélération uniforme d'un mètre par seconde carrée. Après combien de temps la seconde dépasse-t-elle la première, et quelle distance ont-elles parcourue? La première ne s'en remettra pas.
+Deux amies en voiture roulent côte à côte au même instant. La première, très confiante, maintient une vitesse constante de vingt-cinq mètres par seconde. La seconde, vexée de rouler plus lentement à vingt mètres par seconde, enfonce l'accélérateur avec une accélération uniforme d'un mètre par seconde carrée. Après combien de temps la seconde dépasse-t-elle la première, et quelle distance ont-elles parcourue? La première ne s'en remettra pas.
 
 ```
 Données :
