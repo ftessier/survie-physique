@@ -39,7 +39,7 @@ Utile quand il n'y a **pas d'accélération** ($a=0$). Trois variables, trois va
 
 $$\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t$$
 
-La variable **absente**: $a$. Utile quand on connaît les deux vitesses et le temps (ou qu'on en cherche une des trois).
+La variable **absente**: $a$. Utile quand il y a accélération, mais qu'elle n'est pas donnée comme telle.
 
 ---
 
