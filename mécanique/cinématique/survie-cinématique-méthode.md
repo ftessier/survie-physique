@@ -2,7 +2,7 @@
 
 ## Les variables à magasiner
 
-En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est donné ou ce qui t'est demandé. Tu en auras toujours au moins trois :
+En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est donné ou ce qui t'est demandé. Tu en auras toujours au moins trois:
 
 | Symbole | Signification | Unité SI | Ce qu'on cherche dans l'énoncé |
 |---------|--------------|----------|-------------------------------|
@@ -18,7 +18,7 @@ En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est don
 - « S'arrête » ou « arrêt complet » $\Rightarrow$ $v_f = 0$
 - « Vitesse constante » $\Rightarrow$ $a = 0$ (MRU, pas MRUA)
 - « Freine uniformément » $\Rightarrow$ l'accélération est de signe contraire à la vitesse
-- Attention aux unités : km/h $\rightarrow$ m/s, on divise par $3{,}6$
+- Attention aux unités: km/h $\rightarrow$ m/s, on divise par $3{,}6$
 - Pour un mouvement selon deux direction, disons horizontale et verticale, résoudre le problème séparément selon chaque direction.
 
 ---
@@ -37,7 +37,7 @@ Utile quand il n'y a **pas d'accélération**. Trois variables, trois variantes 
 
 $$\Delta d = \frac{v_i + v_f}{2} \cdot \Delta t$$
 
-La variable **absente** : $a$. Utile quand on connaît les deux vitesses et le temps (ou qu'on en cherche une des trois).
+La variable **absente**: $a$. Utile quand on connaît les deux vitesses et le temps (ou qu'on en cherche une des trois).
 
 ---
 
@@ -45,7 +45,7 @@ La variable **absente** : $a$. Utile quand on connaît les deux vitesses et le t
 
 $$\Delta d = v_i \cdot \Delta t + \frac{1}{2} \cdot a \cdot (\Delta t)^2$$
 
-La variable **absente** : $v_f$. C'est l'équation « je connais le début ».
+La variable **absente**: $v_f$. C'est l'équation « je connais le début ».
 
 ---
 
@@ -53,7 +53,7 @@ La variable **absente** : $v_f$. C'est l'équation « je connais le début ».
 
 $$\Delta d = v_f \cdot \Delta t - \frac{1}{2} \cdot a \cdot (\Delta t)^2$$
 
-La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Remarque le signe `-` devant le terme en $a$.
+La variable **absente**: $v_i$. C'est l'équation « je connais la fin ». Remarque le signe `-` devant le terme en $a$.
 
 ---
 
@@ -61,7 +61,7 @@ La variable **absente** : $v_i$. C'est l'équation « je connais la fin ». Rema
 
 $$v_f^2 = v_i^2 + 2 \cdot a \cdot \Delta d$$
 
-La variable **absente** : $\Delta t$. Très puissante quand le temps n'apparaît nulle part dans l'énoncé.
+La variable **absente**: $\Delta t$. Très puissante quand le temps n'apparaît nulle part dans l'énoncé.
 
 ---
 
