@@ -16,6 +16,6 @@ La mécanique dite _classique_ se divise en quelques grands morceaux, qu'on abor
 
 **La dynamique** ajoute les forces. C'est Newton qui entre en scène et qui demande : qu'est-ce qui *cause* le mouvement? Pourquoi la balle va-t-elle à 140 km/h? Réponse : parce que quelqu'un lui a appliqué une force. C'est ici qu'on rencontre F = ma, la plus célèbre équation après E = mc².
 
-**L'énergie et le travail** reformulent les mêmes idées sous un angle différent, souvent plus puissant. Au lieu de suivre les forces à chaque instant, on fait la comptabilité : combien d'énergie est entrée, combien est sortie, où est passé le reste?
+**L'énergie et le travail** reformulent les mêmes idées sous un angle différent, qui permet souvent un analyse plus avancée (et sur laquelle repose la mécanique dite _quantique_). Au lieu de suivre les forces à chaque instant, on fait la comptabilité : combien d'énergie est entrée, combien est sortie, où est passé le reste?
 
 On commence par la cinématique — parce qu'avant de comprendre *pourquoi* les choses bougent, il faut d'abord savoir décrire *comment* elles bougent.
