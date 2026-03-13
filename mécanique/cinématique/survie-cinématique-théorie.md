@@ -10,7 +10,7 @@ L'accélération (constante) est le taux de changement de la vitesse:
 
 $$a = \frac{v_f - v_i}{\Delta t}$$
 
-où $v_f$ représente la vitesse finale au temps final $t_f$, et $v_i$ représente la vitesse initiale au temps initial $t_i$. On a aussi utilisé la notation compacte $\Delta t = t_f - t_i$. On peut isoler $v_f$ pour obtenir une relation qu'on utilisera souvent:
+où $v_f$ représente la vitesse finale au temps final $t_f$, et $v_i$ représente la vitesse initiale au temps initial $t_i$. On a aussi utilisé la notation compacte $\Delta t = t_f - t_i$. On peut isoler la vitesse finale $v_f$ pour obtenir une relation qu'on utilisera souvent:
 
 $$v_f = v_i + a \cdot \Delta t \quad\quad{[0]}$$
 
