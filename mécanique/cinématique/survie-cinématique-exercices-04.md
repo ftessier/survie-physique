@@ -67,7 +67,7 @@ Solution :
 
 ## Problème 4 — L'atterrissage du pigeon (le retour de Gérald)
 
-Gérald le pigeon (qui se prend toujours pour un Airbus) atterrit sur une piste à une vitesse de trente mètres par seconde et freine uniformément à deux mètres par seconde carrée. Malheureusement, la piste ne fait que cent quatre-vingts mètres. Gérald réussit-il à s'arrêter à temps, ou finit-il dans la clôture?
+Gérald le pigeon (qui se prend toujours pour un Airbus) atterrit sur une piste à une vitesse de trente mètres par seconde et freine uniformément à deux mètres par seconde carrée. Malheureusement, la piste ne fait que cent quatre-vingts mètres. Gérald réussit-il à s'arrêter à temps, ou finit-il dans la clôture? On ne l'informe pas qu'il peut atterir ailleurs qu'à l'aéroport.
 
 ```
 Données :
