@@ -6,6 +6,6 @@ Tu as un examen demain, ton manuel est écrit dans une langue qui ressemble au f
 
 ## Table des matières
 
-### Mécanique
+### [Mécanique](mécanique/)
 
 - [Cinématique](mécanique/cinématique/)

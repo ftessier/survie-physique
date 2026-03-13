@@ -20,10 +20,10 @@ Pour l'instant, Newton a raison, ton cellulaire est synchronisé, et on a des pr
 
 ## Contenu
 
-- [Théorie: Démonstration des équations](./survie-cinématique-théorie.md)
-- [Méthode: comment résoudre des problèmes](./survie-cinématique-méthode.md)
-- [Exercices 1 — Mouvement rectiligne uniforme](./survie-cinématique-exercices-01.md)
-- [Exercices 2 — Déplacement par la moyenne des vitesses](./survie-cinématique-exercices-02.md)
-- [Exercices 3 — Équation de position en fonction du temps](./survie-cinématique-exercices-03.md)
-- [Exercices 4 — Équation de position avec la vitesse finale](./survie-cinématique-exercices-04.md)
-- [Exercices 5 — Relation vitesse-déplacement (sans le temps)](./survie-cinématique-exercices-05.md)
+- [Théorie: Démonstration des équations](survie-cinématique-théorie.md)
+- [Méthode: comment résoudre des problèmes](survie-cinématique-méthode.md)
+- [Exercices 1 — Mouvement rectiligne uniforme](survie-cinématique-exercices-01.md)
+- [Exercices 2 — Déplacement par la moyenne des vitesses](survie-cinématique-exercices-02.md)
+- [Exercices 3 — Équation de position en fonction du temps](survie-cinématique-exercices-03.md)
+- [Exercices 4 — Équation de position avec la vitesse finale](survie-cinématique-exercices-04.md)
+- [Exercices 5 — Relation vitesse-déplacement (sans le temps)](survie-cinématique-exercices-05.md)
