@@ -2,7 +2,7 @@
 
 ## Point de départ : trois fondamentaux
 
-Toutes les équations du mouvement rectiligne uniformément accéléré (MRUA), c'est-à-dire lorsque **l'accélération est constante** (peut-être nulle) découlent de trois idées simples.
+Toutes les équations du mouvement rectiligne uniformément accéléré (MRUA), c'est-à-dire lorsque **l'accélération est constante** (incluant les cas sans accélération, $a=0$) découlent de trois idées simples.
 
 ### L'accélération uniforme
 
