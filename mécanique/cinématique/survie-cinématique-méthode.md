@@ -31,7 +31,7 @@ En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est don
 
 $$\Delta d = v \cdot \Delta t$$
 
-Utile quand il n'y a **pas d'accélération** ($a=0$). Trois variables, trois variantes possibles.
+Utile quand il n'y a **pas d'accélération** ($a=0$). Trois variables, trois variantes possibles: on te donne deux des variables, et tu dois trouver la troisième.
 
 ---
 
