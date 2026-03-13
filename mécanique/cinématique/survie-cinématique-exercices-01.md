@@ -1,4 +1,4 @@
-# Cinématique — Mouvement rectiligne uniforme (MRU)
+# Cinématique — MRU : Mouvement rectiligne uniforme
 
 ---
 
