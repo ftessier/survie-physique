@@ -108,4 +108,4 @@ Variable absente: $\Delta t$.
 
 ## Vue d'ensemble
 
-Tout repose sur deux idées: la définition de l'accélération et le fait que la vitesse moyenne est la demi-somme des vitesses extrêmes. À partir de là, chaque équation est obtenue en éliminant une variable différente par simple substitution algébrique. Il n'y a donc pas cinq équations indépendantes à mémoriser — il y a une seule logique à comprendre.
+Tout repose sur deux idées: **la définition de l'accélération** et le fait que **la vitesse moyenne est la demi-somme des vitesses extrêmes.** À partir de là, chaque équation est obtenue en éliminant une variable différente par simple substitution algébrique. Il n'y a donc pas cinq équations indépendantes à mémoriser — il y a une seule logique à comprendre.
