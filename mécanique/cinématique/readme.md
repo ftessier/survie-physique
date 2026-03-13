@@ -1,12 +1,12 @@
 # Cinématique
 
-Le mot vient du grec **κίνημα** (ki-nè-ma) — le mouvement (la même origine que le mot cinéma!). La cinématique, c'est littéralement la science du mouvement. Pas *pourquoi* les choses bougent (ça, c'est la dynamique, et ça vient après), juste *comment* : où, quand, à quelle vitesse.
+Le mot vient du grec **κίνημα** (ki-nè-ma) — le mouvement (la même origine que le mot cinéma!). La cinématique, c'est littéralement la science du mouvement. Pas *pourquoi* les choses bougent (ça, c'est la dynamique, et ça vient après), juste *comment*: où, quand, à quelle vitesse.
 
 ## Pourquoi on commence par là
 
-Parce que c'est la branche de la physique que tu vis déjà tous les jours sans le savoir. En auto, tu regardes le compteur : vitesse. Tu regardes l'heure de départ et l'heure d'arrivée : temps. Tu regardes Google Maps : distance. Tu as déjà les trois concepts dans ta tête sans avoir ouvert un seul manuel.
+Parce que c'est la branche de la physique que tu vis déjà tous les jours sans le savoir. En auto, tu regardes le compteur: vitesse. Tu regardes l'heure de départ et l'heure d'arrivée: temps. Tu regardes Google Maps: distance. Tu as déjà les trois concepts dans ta tête sans avoir ouvert un seul manuel.
 
-L'accélération, c'est un cran plus abstrait — c'est le *changement* de la vitesse, un calcul sur un calcul. Mais tu la connais dans ton corps : c'est ce qui te pousse dans ton siège quand le feu passe au vert, ou ce qui te projette vers l'avant quand le conducteur freine sec. On peut la ressentir avant de la calculer, et c'est exactement pour ça qu'on commence ici.
+L'accélération, c'est un cran plus abstrait — c'est le *changement* de la vitesse, un calcul sur un calcul. Mais tu la connais dans ton corps: c'est ce qui te pousse dans ton siège quand le feu passe au vert, ou ce qui te projette vers l'avant quand le conducteur freine sec. On peut la ressentir avant de la calculer, et c'est exactement pour ça qu'on commence ici.
 
 ## Un détail pas si anodin
 
@@ -22,13 +22,13 @@ Pour l'instant, Newton a raison, ton cellulaire est synchronisé, et on a des pr
 
 Dans ton cours, tu vas probablement voir le déplacement écrit $\Delta d$. C'est la notation standard au secondaire au Québec, et c'est celle qu'on utilise dans les problèmes ici pour que tu ne sois pas perdu en classe. Mais il faut qu'on en parle, parce qu'elle pose un vrai problème.
 
-Le symbole $\Delta$ signifie « la différence entre la valeur finale et la valeur initiale ». Quand on écrit $\Delta t$, c'est clair : c'est $t_f - t_i$, la différence entre deux instants. Quand on écrit $\Delta v$, c'est $v_f - v_i$, la différence entre deux vitesses. Parfait.
+Le symbole $\Delta$ signifie « la différence entre la valeur finale et la valeur initiale ». Quand on écrit $\Delta t$, c'est clair: c'est $t_f - t_i$, la différence entre deux instants. Quand on écrit $\Delta v$, c'est $v_f - v_i$, la différence entre deux vitesses. Parfait.
 
 Mais la variable $d$, dans cette notation, évoque déjà le mot *déplacement* — c'est-à-dire une différence entre deux positions! Écrire $\Delta d$, c'est comme écrire « le changement du changement de position ». Ça ne veut rien dire de cohérent.
 
-Et il y a un deuxième piège : la lettre $d$ peut aussi évoquer le mot *distance*, qui est un concept différent du déplacement. Le déplacement est un vecteur (qui comporte une grandeur et une direction; une "flèche" de la position initiale à la position finale, peu importe le chemin). La distance est un *scalaire* (un simple nombre sans direction, la longueur totale du trajet parcouru). Ainsi un aller-retour au dépanneur donne un déplacement nul mais une distance bien réelle. Même lettre, deux idées opposées. Ça n'arrange rien.
+Et il y a un deuxième piège: la lettre $d$ peut aussi évoquer le mot *distance*, qui est un concept différent du déplacement. Le déplacement est un vecteur (qui comporte une grandeur et une direction; une "flèche" de la position initiale à la position finale, peu importe le chemin). La distance est un *scalaire* (un simple nombre sans direction, la longueur totale du trajet parcouru). Ainsi un aller-retour au dépanneur donne un déplacement nul mais une distance bien réelle. Même lettre, deux idées opposées. Ça n'arrange rien.
 
-**La notation propre** utilise $x$ pour la position. Tout devient symétrique et limpide :
+**La notation propre** utilise $x$ pour la position. Tout devient symétrique et limpide:
 
 | Quantité | Initiale | Finale | Différence |
 |----------|----------|--------|------------|
