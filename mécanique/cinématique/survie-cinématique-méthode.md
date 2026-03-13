@@ -63,7 +63,7 @@ La variable **absente**: $v_i$. C'est l'équation « je connais la fin ». Remar
 
 $$v_f^2 = v_i^2 + 2 \cdot a \cdot \Delta d$$
 
-La variable **absente**: $\Delta t$. Très puissante quand le temps n'apparaît nulle part dans l'énoncé.
+La variable **absente**: $\Delta t$. Fort pratique quand le temps n'apparaît nulle part dans l'énoncé!
 
 ---
 
