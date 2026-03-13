@@ -90,7 +90,7 @@ Solution :
 
 ## Problème 5 — Gérald III : la mission finale
 
-Gérald le pigeon (qui n'a toujours pas compris qu'il peut voler) s'élance du repos sur une piste en accélérant uniformément à deux mètres par seconde carrée. Il doit atteindre une vitesse de décollage de vingt mètres par seconde avant la fin de la piste, qui fait cent vingt mètres. Gérald réussit-il à décoller, ou doit-il enfin admettre qu'il a des ailes? Si la piste est trop courte, quelle longueur minimale lui faudrait-il?
+Gérald le pigeon (qui n'a toujours pas compris qu'il peut voler où bon lui semble) s'élance du repos sur une piste en accélérant uniformément à deux mètres par seconde carrée. Il doit atteindre une vitesse de décollage de vingt mètres par seconde avant la fin de la piste, qui fait cent vingt mètres. Gérald réussit-il à décoller, ou doit-il enfin admettre qu'il a des ailes? Si la piste est trop courte, quelle longueur minimale lui faudrait-il?
 
 ```
 Données :
