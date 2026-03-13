@@ -1,4 +1,4 @@
-# Cinématique — Mouvement rectiligne uniforme : d = vt
+# Cinématique — Mouvement rectiligne uniforme (MRU)
 
 ---
 
