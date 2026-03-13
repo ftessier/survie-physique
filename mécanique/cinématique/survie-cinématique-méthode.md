@@ -2,7 +2,7 @@
 
 ## Les variables à magasiner
 
-En lisant un problème, cherche ces cinq ingrédients. Tu en auras toujours au moins trois :
+En lisant un problème, cherche ces cinq ingrédients. Tu en auras toujours au moins deux :
 
 | Symbole | Signification | Unité SI | Ce qu'on cherche dans l'énoncé |
 |---------|--------------|----------|-------------------------------|
@@ -69,5 +69,3 @@ La variable **absente** : $\Delta t$. Très puissante quand le temps n'apparaît
 1. Identifie tes **données** (les variables connues).
 2. Identifie ton **inconnue** (ce qu'on te demande).
 3. Cherche l'équation où la **variable absente** est celle qui ne figure ni dans tes données ni dans ta question.
-
-En d'autres mots : tu as cinq variables et chaque équation en utilise quatre. La variable qui manque dans l'équation, c'est celle dont tu n'as pas besoin.
