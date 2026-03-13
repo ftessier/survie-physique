@@ -51,3 +51,4 @@ En attendant, on joue le jeu du $\Delta d$ dans les problèmes — mais maintena
 - [Exercices 5 — Relation vitesse-déplacement (sans le temps)](survie-cinématique-exercices-05.md)
 - [Exercices 6 — Problèmes avancés](survie-cinématique-exercices-06.md)
 - [Exercice — Le boss final](survie-cinématique-exercices-boss-final.md)
+- [Exercice — La vraie vie](survie-cinématique-exercices-vraie-vie.md)
