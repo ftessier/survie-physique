@@ -6,7 +6,7 @@
 
 ## La grande évasion de Gérald
 
-Gérald le pigeon a été capturé par un zoo qui l'a pris pour un oiseau exotique (il portait des lunettes d'aviateur). Il s'échappe sur un chariot de service et doit traverser trois zones du zoo en ligne droite pour atteindre la sortie.
+À force de traîner à l'aéroport, Gérald le pigeon a été capturé par un zoo qui l'a pris pour un oiseau exotique (il portait des lunettes d'aviateur). Il s'échappe sur un chariot de service et doit traverser trois zones du zoo en ligne droite pour atteindre la sortie.
 
 **Zone A — L'allée des reptiles.** Gérald part du repos et accélère uniformément à deux mètres par seconde carrée sur une distance de vingt-cinq mètres.
 
