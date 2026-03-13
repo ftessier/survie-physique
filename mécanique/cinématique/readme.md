@@ -26,7 +26,7 @@ Le symbole $\Delta$ signifie « la différence entre la valeur finale et la vale
 
 Mais la variable $d$, dans cette notation, évoque déjà le mot *déplacement* — c'est-à-dire une différence entre deux positions! Écrire $\Delta d$, c'est comme écrire « le changement du changement de position ». Ça ne veut rien dire de cohérent.
 
-Et il y a un deuxième piège: la lettre $d$ peut aussi évoquer le mot *distance*, qui est un concept différent du déplacement. Le déplacement est un vecteur (qui comporte une grandeur et une direction: une "flèche" de la position initiale à la position finale, peu importe le chemin). La distance est un *scalaire* (un simple nombre sans direction: la longueur totale du trajet parcouru). Ainsi un aller-retour au dépanneur donne un déplacement nul mais une distance bien réelle. Même lettre, deux idées opposées. Ça n'arrange rien.
+Et il y a un deuxième piège: la lettre $d$ peut aussi évoquer le mot *distance*, qui est un concept différent du déplacement. Le déplacement est un _vecteur,_ qui comporte une grandeur et une direction: représenté par une "flèche" de la position initiale à la position finale, peu importe le chemin). La distance est un *scalaire,* soit un simple nombre sans direction: la longueur totale du trajet parcouru. Ainsi un aller-retour au dépanneur donne un déplacement nul mais une distance bien réelle. Même lettre, deux idées opposées. Ça n'arrange rien.
 
 **La notation propre** utilise $x$ pour la position. Tout devient symétrique et limpide:
 
