@@ -46,7 +46,7 @@ Solution :
 
 ## Problème 3 — Le retour de la tortue suspecte
 
-La tortue suspecte est de retour, cette fois sur une colline. Elle part à deux mètres par seconde et accélère uniformément à zéro virgule cinq mètre par seconde carrée jusqu'à atteindre six mètres par seconde. On ne pose plus de questions. Quelle est la longueur de la colline?
+La tortue suspecte est de retour, cette fois sur une colline. Elle part à deux mètres par seconde et accélère uniformément à zéro virgule cinq mètre par seconde carrée jusqu'à atteindre six mètres par seconde. On ne pose plus de questions. Sauf: Quelle est la longueur de son trajet?
 
 ```
 Données :
