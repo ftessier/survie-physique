@@ -12,7 +12,7 @@ $$a = \frac{v_f - v_i}{\Delta t}$$
 
 On peut isoler $v_f$ pour obtenir une relation qu'on utilisera souvent :
 
-$$v_f = v_i + a \, \Delta t \tag*{[0]}$$
+$$v_f = v_i + a \, \Delta t \quad\quad{[0]}$$
 
 ### La vitesse moyenne
 
@@ -32,7 +32,7 @@ $$\Delta d = v_{\text{moy}} \, \Delta t$$
 
 Quand il n'y a pas d'accélération ($a = 0$), la vitesse ne change pas : $v_i = v_f = v$. La vitesse moyenne est simplement $v$, et on obtient directement :
 
-$$\boxed{\Delta d = v \, \Delta t} \tag*{[1]}$$
+$$\boxed{\Delta d = v \, \Delta t} \quad\quad{[1]}$$
 
 C'est un cas particulier de tout ce qui suit.
 
@@ -42,7 +42,7 @@ C'est un cas particulier de tout ce qui suit.
 
 On combine les deux définitions du point de départ sans aucune manipulation. Le déplacement est la vitesse moyenne multipliée par le temps, et la vitesse moyenne est la demi-somme des vitesses :
 
-$$\boxed{\Delta d = \frac{v_i + v_f}{2} \, \Delta t} \tag*{[2]}$$
+$$\boxed{\Delta d = \frac{v_i + v_f}{2} \, \Delta t} \quad\quad\quad{[2]}$$
 
 Variable absente : $a$.
 
@@ -66,7 +66,7 @@ $$\Delta d = \frac{2 \, v_i + a \, \Delta t}{2} \, \Delta t$$
 
 On distribue :
 
-$$\boxed{\Delta d = v_i \, \Delta t + \frac{1}{2} \, a \, (\Delta t)^2} \tag*{[3]}$$
+$$\boxed{\Delta d = v_i \, \Delta t + \frac{1}{2} \, a \, (\Delta t)^2} \quad\quad{[3]}$$
 
 Variable absente : $v_f$.
 
@@ -88,7 +88,7 @@ $$\Delta d = \frac{2 \, v_f - a \, \Delta t}{2} \, \Delta t$$
 
 On distribue :
 
-$$\boxed{\Delta d = v_f \, \Delta t - \frac{1}{2} \, a \, (\Delta t)^2} \tag*{[4]}$$
+$$\boxed{\Delta d = v_f \, \Delta t - \frac{1}{2} \, a \, (\Delta t)^2} \quad\quad{[4]}$$
 
 Variable absente : $v_i$.
 
@@ -112,7 +112,7 @@ $$\Delta d = \frac{v_f^2 - v_i^2}{2a}$$
 
 On multiplie les deux côtés par $2a$ et on réarrange :
 
-$$\boxed{v_f^2 = v_i^2 + 2 \, a \, \Delta d} \tag*{[5]}$$
+$$\boxed{v_f^2 = v_i^2 + 2 \, a \, \Delta d} \quad\quad{[5]}$$
 
 Variable absente : $\Delta t$.
 
