@@ -1,5 +1,20 @@
 # Cinématique
 
+## Contenu
+
+- [Théorie: Démonstration des équations](survie-cinématique-théorie.md)
+- [Méthode: comment résoudre des problèmes](survie-cinématique-méthode.md)
+- [Exercices 1 — Mouvement rectiligne uniforme](survie-cinématique-exercices-01.md)
+- [Exercices 2 — Déplacement par la moyenne des vitesses](survie-cinématique-exercices-02.md)
+- [Exercices 3 — Équation de position en fonction du temps](survie-cinématique-exercices-03.md)
+- [Exercices 4 — Équation de position avec la vitesse finale](survie-cinématique-exercices-04.md)
+- [Exercices 5 — Relation vitesse-déplacement (sans le temps)](survie-cinématique-exercices-05.md)
+- [Exercices 6 — Problèmes avancés](survie-cinématique-exercices-06.md)
+- [Exercice — Le boss final](survie-cinématique-exercices-boss-final.md)
+- [Exercice — La vraie vie](survie-cinématique-exercices-vraie-vie.md)
+
+## C'est quoi, la cinématique?
+
 Le mot vient du grec **κίνημα** (ki-nè-ma) — le mouvement (la même origine que le mot cinéma!). La cinématique, c'est littéralement la science du mouvement. Pas *pourquoi* les choses bougent (ça, c'est la dynamique, et ça vient après), juste *comment*: où, quand, à quelle vitesse.
 
 ## Pourquoi on commence par là
@@ -39,16 +54,3 @@ Et il y a un deuxième piège: la lettre $d$ peut aussi évoquer le mot *distanc
 Le déplacement, c'est maintenant $\Delta x$. Le $\Delta$ a exactement le même sens partout. Pas d'ambiguïté, pas de collision avec la distance, et chaque variable a sa paire initiale-finale. C'est la notation utilisée dans la plupart des manuels universitaires et c'est celle que tu verras si tu continues en sciences.
 
 En attendant, on joue le jeu du $\Delta d$ dans les problèmes — mais maintenant tu sais ce qu'il y a derrière.
-
-## Contenu
-
-- [Théorie: Démonstration des équations](survie-cinématique-théorie.md)
-- [Méthode: comment résoudre des problèmes](survie-cinématique-méthode.md)
-- [Exercices 1 — Mouvement rectiligne uniforme](survie-cinématique-exercices-01.md)
-- [Exercices 2 — Déplacement par la moyenne des vitesses](survie-cinématique-exercices-02.md)
-- [Exercices 3 — Équation de position en fonction du temps](survie-cinématique-exercices-03.md)
-- [Exercices 4 — Équation de position avec la vitesse finale](survie-cinématique-exercices-04.md)
-- [Exercices 5 — Relation vitesse-déplacement (sans le temps)](survie-cinématique-exercices-05.md)
-- [Exercices 6 — Problèmes avancés](survie-cinématique-exercices-06.md)
-- [Exercice — Le boss final](survie-cinématique-exercices-boss-final.md)
-- [Exercice — La vraie vie](survie-cinématique-exercices-vraie-vie.md)
