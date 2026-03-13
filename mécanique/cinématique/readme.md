@@ -22,7 +22,7 @@ Pour l'instant, le choix de Newton semble coller avec notre réalité de tous le
 
 Dans ton cours, tu vas probablement voir le déplacement écrit $\Delta d$. C'est la notation standard au secondaire au Québec, et c'est celle qu'on utilise dans les problèmes ici pour que tu ne sois pas perdu en classe. Mais il faut qu'on en parle, parce qu'elle pose un vrai problème.
 
-Le symbole $\Delta$, la lettre grecque correspondant à notre "D" majuscule, signifie souvent « la différence entre la valeur finale et la valeur initiale ». Quand on écrit $\Delta t$, c'est clair: c'est $t_f - t_i$, la différence entre deux instants. Quand on écrit $\Delta v$, c'est $v_f - v_i$, la différence entre deux vitesses. Parfait.
+Le symbole $\Delta$ (Delta), la lettre grecque correspondant à notre "D" majuscule, signifie souvent « la différence entre la valeur finale et la valeur initiale ». Quand on écrit $\Delta t$, c'est clair: c'est $t_f - t_i$, la différence entre deux instants. Quand on écrit $\Delta v$, c'est $v_f - v_i$, la différence entre deux vitesses. Parfait.
 
 Mais la variable $d$, dans cette notation, évoque déjà le mot *déplacement* — c'est-à-dire une différence entre deux positions! Écrire $\Delta d$, c'est comme écrire « le changement du changement de position ». Ça ne veut rien dire de cohérent.
 
