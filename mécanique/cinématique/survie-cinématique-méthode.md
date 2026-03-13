@@ -2,7 +2,7 @@
 
 ## Les variables à magasiner
 
-En lisant un problème, cherche ces cinq ingrédients. Tu en auras toujours au moins deux :
+En lisant un problème, cherche ces cinq ingrédients sois dans ce qui t'est donné ou ce qui t'est demandé. Tu en auras toujours au moins trois :
 
 | Symbole | Signification | Unité SI | Ce qu'on cherche dans l'énoncé |
 |---------|--------------|----------|-------------------------------|
