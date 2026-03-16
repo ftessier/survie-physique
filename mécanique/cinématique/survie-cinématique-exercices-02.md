@@ -90,7 +90,7 @@ Solution:
 
 ## Problème 5 — Le train qui a presque raté son arrêt
 
-Un train roule à cent quarante-quatre kilomètres par heure quand le conducteur réalise — oups — que la gare approche. Il freine uniformément. Après douze secondes de freinage, il a parcouru trois cent soixante mètres. Il maintient ensuite le même freinage uniforme jusqu'à l'arrêt complet, en espérant très fort que ça suffise. Quelle distance totale le train parcourt-il entre le début du freinage et l'arrêt?
+Un train roule à cent quarante-quatre kilomètres par heure quand le conducteur réalise — oups — que la gare approche, à 400 mètres seulement déjà! Il freine uniformément. Après douze secondes de freinage, il a parcouru trois cent soixante mètres. Inquiet de ne pas y arriver, il freine deux fois plus fort, uniformément jusqu'à l'arrêt complet du train, en espérant très fort que ça suffise. As-t-il dépassé la gare?
 
 ```
 Données:
