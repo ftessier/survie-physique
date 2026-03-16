@@ -46,7 +46,7 @@ Solution:
 
 ## Problème 3 — Le sprinteur philosophe
 
-Un sprinteur passe devant un repère à huit mètres par seconde et parcourt les quarante derniers mètres de sa course en cinq secondes, tout en décélérant uniformément. Quelle est sa vitesse au fil d'arrivée? (Il prétend qu'il a ralenti volontairement pour « savourer le moment ».)
+Un sprinteur passe devant un repère à huit mètres par seconde et parcourt les quarante derniers mètres de sa course en 6 secondes, tout en décélérant uniformément. Quelle est sa vitesse au fil d'arrivée? (Il prétend qu'il a ralenti volontairement pour « savourer le moment ».)
 
 ```
 Données:
